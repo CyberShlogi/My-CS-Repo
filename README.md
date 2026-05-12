@@ -1,7 +1,7 @@
 # My-CS-Repo
-Documenting my Cyber Security learning journey and updating in real time
+My journey to becoming a Cybersecurity professional.
 # About Me
-My name is Letlhogonolo Phatshwane and I hold a CompTIA Security+ and Google Cybersecurity Certificates. I am passionate about simplifying the technical jargon to the ordinary non-technical person. I strongly believe that we should not leave vulnerable people exposed to the dark world of cyber crimes. I am the voice of the voiceless where awareness and education on Cybersecurity is concerned and I am working towards empowering those who I can reach, influence and educate about cyber crimes and cybersecurity. 
+My name is Letlhogonolo Phatshwane and I hold a CompTIA Security+ and Google Cybersecurity Certificates. My goal is to be a GRC Analyst. I am also passionate about Cybersecurity becoming accessible and simplifying the technical jargon to the ordinary, non-technical person. I strongly believe that we should not leave vulnerable people exposed to the dark world of cyber crimes. I am the voice of the voiceless where awareness and education on Cybersecurity is concerned and I am working towards empowering those who I can reach, influence and educate about cyber crimes and cybersecurity. 
 # Certifications
 CompTIA Security+ | Google Cybersecurity | SheCodes 
 # Soft Skills
